@@ -1,0 +1,90 @@
+Territory,Restaurant ID,Order ID,Order Time,Order Status,Item Name,Customizations,Special Instructions,Item Price,Order Price,Currency
+i,58df3af8-acbe-55b1-94df-f280304484db,9ef63252-f1de-4779-a89e-bbd4279e96aa,2024-05-30 16:54:46 +0000 UTC,COMPLETED,25. Salt and Pepper Squid Large,,,8.5,14.61,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,9ef63252-f1de-4779-a89e-bbd4279e96aa,2024-05-30 16:54:46 +0000 UTC,COMPLETED,L1. Sweet and Sour Chicken Hong Kong Style,92. Egg Fried Rice,,9.99,14.61,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,9ef63252-f1de-4779-a89e-bbd4279e96aa,2024-05-30 16:54:46 +0000 UTC,COMPLETED,M3 Salmon Maki Roll,,,4.8,14.61,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,04e1dcab-f713-4f33-afa8-2f074774e576,2024-05-29 12:44:30 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,15.90,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,04e1dcab-f713-4f33-afa8-2f074774e576,2024-05-29 12:44:30 +0000 UTC,COMPLETED,Thai Milk Tea,"Aloe Vera Jelly, Large",,5.5,15.90,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,713f7bb3-7c39-4b78-830d-a689205deedb,2024-05-10 13:12:52 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,16.43,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,713f7bb3-7c39-4b78-830d-a689205deedb,2024-05-10 13:12:52 +0000 UTC,COMPLETED,Thai Milk Tea,"Grass Jelly, Large, Mango Popping Balls",No Ice please,5.5,16.43,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,80baf54d-ffff-4452-b886-5475258d2f06,2024-05-02 13:46:50 +0000 UTC,COMPLETED,Thai Milk Tea,"Grass Jelly, Large",,5.5,15.90,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,80baf54d-ffff-4452-b886-5475258d2f06,2024-05-02 13:46:50 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,15.90,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,d31fb75f-e5cd-4a72-9996-c2bc979cc26f,2024-04-29 13:29:07 +0000 UTC,COMPLETED,Jerk Pork,"Large, Rice and Peas",,10,12.16,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,d31fb75f-e5cd-4a72-9996-c2bc979cc26f,2024-04-29 13:29:07 +0000 UTC,COMPLETED,Banana Cake,,,4,12.16,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d8e23ba3-0271-430a-ab94-264657d70d88,2024-03-29 16:34:30 +0000 UTC,COMPLETED,Thai Milk Tea,"Grass Jelly, Large",,5.5,16.44,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d8e23ba3-0271-430a-ab94-264657d70d88,2024-03-29 16:34:30 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,16.44,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,bd7b9685-4cd0-4960-92ca-1d15f7983101,2024-03-16 16:56:56 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,16.44,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,bd7b9685-4cd0-4960-92ca-1d15f7983101,2024-03-16 16:56:56 +0000 UTC,COMPLETED,Thai Milk Tea,,,5.5,16.44,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d90b44d2-98ec-4522-9f01-5ea8c001fa5b,2024-02-20 15:58:11 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,14.25,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d90b44d2-98ec-4522-9f01-5ea8c001fa5b,2024-02-20 15:58:11 +0000 UTC,COMPLETED,Thai Milk Tea,"With Tapioca Balls, Large",,5.5,14.25,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,7e7bfbf7-9ff7-46b0-b7ba-a2e9d6b0e81a,2024-02-19 13:49:41 +0000 UTC,COMPLETED,Lychee Fruit Tea,"Large, With Tapioca Balls",,5.5,14.25,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,7e7bfbf7-9ff7-46b0-b7ba-a2e9d6b0e81a,2024-02-19 13:49:41 +0000 UTC,COMPLETED,Pork and Pate Banh Mi,,,8.5,14.25,GBP
+i,51c1b4e1-50f0-48ee-84ac-577514fb34a0,624938d5-e5d8-45a2-b6e4-f57ba0e68587,2024-01-26 14:55:44 +0000 UTC,COMPLETED,Latte,Latte,,4.05,8.33,GBP
+i,51c1b4e1-50f0-48ee-84ac-577514fb34a0,624938d5-e5d8-45a2-b6e4-f57ba0e68587,2024-01-26 14:55:44 +0000 UTC,COMPLETED,Swedish Meatball Hot Wrap,,,7,8.33,GBP
+i,51c1b4e1-50f0-48ee-84ac-577514fb34a0,624938d5-e5d8-45a2-b6e4-f57ba0e68587,2024-01-26 14:55:44 +0000 UTC,COMPLETED,Lemon Cheesecake,,,4.1,8.33,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,27ddca90-da30-4536-a524-bf73aaf24800,2024-01-17 14:49:36 +0000 UTC,COMPLETED,Jerk Chicken,"Large, Rice and Peas",,10,8.80,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,27ddca90-da30-4536-a524-bf73aaf24800,2024-01-17 14:49:36 +0000 UTC,COMPLETED,Patty,,,2.5,8.80,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,27ddca90-da30-4536-a524-bf73aaf24800,2024-01-17 14:49:36 +0000 UTC,COMPLETED,Plantain,,,1.5,8.80,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,c90f1b4a-ddc9-4efc-acab-fdd1467d8700,2024-01-09 14:38:14 +0000 UTC,COMPLETED,Mac N Cheese,,,5,10.80,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,c90f1b4a-ddc9-4efc-acab-fdd1467d8700,2024-01-09 14:38:14 +0000 UTC,COMPLETED,Jerk Pork,"Small, Rice and Peas",,10,10.80,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,c90f1b4a-ddc9-4efc-acab-fdd1467d8700,2024-01-09 14:38:14 +0000 UTC,COMPLETED,Jerk Wings,,,5,10.80,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,878a5352-ade0-4b93-b787-736ea72edc85,2023-12-15 17:09:38 +0000 UTC,COMPLETED,Matcha Milk Tea,,,5.5,17.05,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,878a5352-ade0-4b93-b787-736ea72edc85,2023-12-15 17:09:38 +0000 UTC,COMPLETED,Special Bao Bun (1 Piece),,,4.5,17.05,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,878a5352-ade0-4b93-b787-736ea72edc85,2023-12-15 17:09:38 +0000 UTC,COMPLETED,Lychee Fruit Tea,"Regular, With Tapioca Balls",,5.5,17.05,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,f7474b4e-29aa-47bf-89e6-15bcae1ec127,2023-12-08 16:17:26 +0000 UTC,COMPLETED,Curry Goat,"Large, Rice and Peas",,10,12.10,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,f7474b4e-29aa-47bf-89e6-15bcae1ec127,2023-12-08 16:17:26 +0000 UTC,COMPLETED,Peppered Steak,"Small, Rice and Peas",,10,12.10,GBP
+i,cf33b503-ad84-44a1-8d0e-eef8f700b184,e5b684fa-659a-4264-977d-fc5ff3bd5fb4,2023-12-06 12:36:37 +0000 UTC,COMPLETED,American breakfast ,,Nut allergy,12.5,16.59,GBP
+i,cf33b503-ad84-44a1-8d0e-eef8f700b184,e5b684fa-659a-4264-977d-fc5ff3bd5fb4,2023-12-06 12:36:37 +0000 UTC,COMPLETED,Hash Brown,,,1.95,16.59,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d85b25a5-ed74-41d9-a75b-53eaa4a64b33,2023-12-04 16:49:46 +0000 UTC,COMPLETED,Matcha Milk Tea,"Large, With Tapioca Balls, Yakult",,5.5,14.07,GBP
+i,5bbe8b6a-f605-4892-9040-5c404f2c3668,d85b25a5-ed74-41d9-a75b-53eaa4a64b33,2023-12-04 16:49:46 +0000 UTC,COMPLETED,Chicken Bao Bun (1 Piece),,,4,14.07,GBP
+i,eca95bb0-4be7-5f59-8aaa-f5896bd0df3c,9bb33835-b941-4602-9754-787c3c46bad5,2023-12-02 14:01:10 +0000 UTC,COMPLETED,Athenian Gyros Saver for One,"Pork Gyros Wrap, Fiery Chili (Vegan), Oregano Fries, Coca Cola",,15.9,8.58,GBP
+i,9c406b03-4327-4f1c-a845-5d0a15de5aad,fef85574-0f2a-4e62-bf17-2e559bfa03c0,2023-11-29 15:54:43 +0000 UTC,COMPLETED,Matcha Milk Tea,"Oreo Crumbs, Regular Sugar (Recommended), Oolong Tea, Less Ice, Go Supreme",,4.8,10.18,GBP
+i,dd87c484-327b-4d45-a96d-681989d49ea9,58ba9e13-7dd3-4ba6-a8a0-eb5213c031c3,2023-11-28 14:01:07 +0000 UTC,COMPLETED,Salt And Chilli Pepper,Squid,,6.85,11.99,GBP
+i,dd87c484-327b-4d45-a96d-681989d49ea9,58ba9e13-7dd3-4ba6-a8a0-eb5213c031c3,2023-11-28 14:01:07 +0000 UTC,COMPLETED,Thai Green Curry ,"Chicken, Egg Fried Rice",,11.95,11.99,GBP
+6j,acdc820a-cef8-5777-97aa-9b407e73ed1f,f20bf15d-474c-420e-8d4b-c4110b82549b,2023-11-25 14:52:22 +0000 UTC,COMPLETED,Brown Sugar Matcha-Large,,,6.3,8.32,GBP
+6j,acdc820a-cef8-5777-97aa-9b407e73ed1f,f20bf15d-474c-420e-8d4b-c4110b82549b,2023-11-25 14:52:22 +0000 UTC,COMPLETED,Peach Fruit tea-Large,"less Ice, Mochi Topping, Recommended",,5.7,8.32,GBP
+6j,d2466645-7434-41aa-8314-962fa4024e11,b0b749a1-909c-4764-abf1-8c75dd936ab4,2023-11-24 16:44:08 +0000 UTC,COMPLETED,Matcha Tapioca Milk,,,5.2,8.88,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,a0e64469-6c06-4424-adf5-ca0149a3c320,2023-11-24 20:27:22 +0000 UTC,COMPLETED,Dupiaza,Lamb,,7.5,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,a0e64469-6c06-4424-adf5-ca0149a3c320,2023-11-24 20:27:22 +0000 UTC,COMPLETED,Plain Pappadum ,,,0.6,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,a0e64469-6c06-4424-adf5-ca0149a3c320,2023-11-24 20:27:22 +0000 UTC,COMPLETED,Pilau Rice,,,2.5,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,a0e64469-6c06-4424-adf5-ca0149a3c320,2023-11-24 20:27:22 +0000 UTC,COMPLETED,Mango Chutney,,,0.6,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,b7302f88-52e9-4f6f-9b22-4049d5f81dfd,2023-11-23 19:58:38 +0000 UTC,COMPLETED,Dupiaza,,,7.5,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,b7302f88-52e9-4f6f-9b22-4049d5f81dfd,2023-11-23 19:58:38 +0000 UTC,COMPLETED,Plain Pappadum ,,,0.6,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,b7302f88-52e9-4f6f-9b22-4049d5f81dfd,2023-11-23 19:58:38 +0000 UTC,COMPLETED,Pilau Rice,,,2.5,16.27,GBP
+6j,42103dcc-f763-51c0-b225-9d6ee557b436,b7302f88-52e9-4f6f-9b22-4049d5f81dfd,2023-11-23 19:58:38 +0000 UTC,COMPLETED,Mango Chutney,,,0.6,16.27,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,0e7bb9bc-9487-4605-af67-64786500beba,2023-11-21 13:29:33 +0000 UTC,COMPLETED,Jerk Pork,"Large, Rice and Peas",,10,13.65,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,0e7bb9bc-9487-4605-af67-64786500beba,2023-11-21 13:29:33 +0000 UTC,COMPLETED,Jerk Chicken,Small,,9,13.65,GBP
+i,dd87c484-327b-4d45-a96d-681989d49ea9,2ea5a3bd-9807-40af-961b-9481dbeb8ec1,2023-11-19 14:54:30 +0000 UTC,COMPLETED,Crispy belly pork with rice and pak choi,Egg Fried Rice,,12.95,16.18,GBP
+i,dd87c484-327b-4d45-a96d-681989d49ea9,2ea5a3bd-9807-40af-961b-9481dbeb8ec1,2023-11-19 14:54:30 +0000 UTC,COMPLETED,Crispy Shredded Beef,,,10.95,16.18,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,f221ca6e-74b3-427b-aa38-10751eba90a4,2023-11-17 14:08:39 +0000 UTC,COMPLETED,Jerk Pork,"Large, Rice and Peas",,10,14.30,GBP
+i,17b01c51-d430-550d-abec-8c0074f0a124,f221ca6e-74b3-427b-aa38-10751eba90a4,2023-11-17 14:08:39 +0000 UTC,COMPLETED,Jerk Wings,,,5,14.30,GBP
+i,27ebb862-57cc-41b8-9444-bc534c7ad52b,eae6e210-503d-4d44-9969-0364e5aa6281,2023-11-11 11:35:20 +0000 UTC,COMPLETED,Double Sausage and Egg McMuffin®,"Double Sausage and Egg McMuffin® Meal, Hash Brown, Ice, Medium Fanta® Orange Zero, Cold Drink, No Thanks, Cheddar Cheese Slice (processed), Pork Sausage Patty, Egg, Liquid Vegetable & Dairy Fat Blend, English Muffin",,4.29,16.40,GBP
+i,27ebb862-57cc-41b8-9444-bc534c7ad52b,eae6e210-503d-4d44-9969-0364e5aa6281,2023-11-11 11:35:20 +0000 UTC,COMPLETED,Sausage and Egg McMuffin®,"Tropicana® Orange Juice, Bottled Drinks, No Thanks, Cheddar Cheese Slice (processed), Pork Sausage Patty, Egg, Liquid Vegetable & Dairy Fat Blend, English Muffin, Sausage Egg McMuffin® Meal, Hash Brown",,3.49,16.40,GBP
+i,27ebb862-57cc-41b8-9444-bc534c7ad52b,eae6e210-503d-4d44-9969-0364e5aa6281,2023-11-11 11:35:20 +0000 UTC,COMPLETED,Sausage and Egg McMuffin®,"No Thanks, Cheddar Cheese Slice (processed), Pork Sausage Patty, Egg, Liquid Vegetable & Dairy Fat Blend, English Muffin, Sausage Egg McMuffin® Meal, Hash Brown, Ice, Medium Fanta® Orange Zero, Cold Drink",,3.49,16.40,GBP
+i,6bfd36d3-8a11-574f-b453-bf45ef454e73,3c9cda9a-8285-4c97-9e93-9fedb1b5659f,2023-11-07 16:49:01 +0000 UTC,COMPLETED,Combo Meal Deal (with rice and peas),"Jerk Chicken, Oxtails",,14.75,18.12,GBP
+i,6bfd36d3-8a11-574f-b453-bf45ef454e73,3c9cda9a-8285-4c97-9e93-9fedb1b5659f,2023-11-07 16:49:01 +0000 UTC,COMPLETED,Fried Chicken,,,2.5,18.12,GBP
+i,e45438dd-454c-419f-8ff3-de0ac0cc11ab,2ee6131d-5c87-47fb-a615-aee380d4dd55,2023-10-23 19:16:00 +0000 UTC,COMPLETED,Chutney mango ,,,0.95,14.08,GBP
+i,e45438dd-454c-419f-8ff3-de0ac0cc11ab,2ee6131d-5c87-47fb-a615-aee380d4dd55,2023-10-23 19:16:00 +0000 UTC,COMPLETED," tikka Jalfrezi",Chicken,,9.95,14.08,GBP
+i,e45438dd-454c-419f-8ff3-de0ac0cc11ab,2ee6131d-5c87-47fb-a615-aee380d4dd55,2023-10-23 19:16:00 +0000 UTC,COMPLETED,Plain Poppadom,,,0.95,14.08,GBP
+i,f2d11ce5-a001-5a79-b996-f59570d4afc5,6f5e95fa-ea42-4761-a207-e3f3bc8aba17,2023-10-13 13:06:32 +0000 UTC,COMPLETED,Spicy Chicken Ramen,,,9.99,19.78,GBP
+i,f2d11ce5-a001-5a79-b996-f59570d4afc5,6f5e95fa-ea42-4761-a207-e3f3bc8aba17,2023-10-13 13:06:32 +0000 UTC,COMPLETED,Crunchy Chicken (Halal),,,7.99,19.78,GBP
+6j,2b703775-44a3-56ea-b7ce-e1a7ecda2408,123f6eea-cf89-48ac-8ed6-a6e17b7aa546,2023-02-20 20:34:15 +0000 UTC,COMPLETED,Classic Players,"Regular Fries, Can Coke",,5.49,15.06,GBP
+6j,2b703775-44a3-56ea-b7ce-e1a7ecda2408,123f6eea-cf89-48ac-8ed6-a6e17b7aa546,2023-02-20 20:34:15 +0000 UTC,COMPLETED,Classic Players,"Regular Fries, Can Coke",,5.49,15.06,GBP
+i,6bce19a4-e5f2-51e0-9fd7-7e1d38b25cc8,3d211632-72b8-4e29-8e99-d836832367a0,2023-01-13 16:54:19 +0000 UTC,COMPLETED,Special Fried Rice（羊饭）,,,7.6,32.20,GBP
+i,6bce19a4-e5f2-51e0-9fd7-7e1d38b25cc8,3d211632-72b8-4e29-8e99-d836832367a0,2023-01-13 16:54:19 +0000 UTC,COMPLETED,Sesame Prawn on Toast (10 pieces）（芝麻虾）,,,7.2,32.20,GBP
+i,6bce19a4-e5f2-51e0-9fd7-7e1d38b25cc8,3d211632-72b8-4e29-8e99-d836832367a0,2023-01-13 16:54:19 +0000 UTC,COMPLETED,Szechuan Beef（四川牛）,,,7.9,32.20,GBP
+i,6bce19a4-e5f2-51e0-9fd7-7e1d38b25cc8,3d211632-72b8-4e29-8e99-d836832367a0,2023-01-13 16:54:19 +0000 UTC,COMPLETED,Deep Fried Squid with Chilli Salt & Pepper（椒盐鱿鱼）,,,8,32.20,GBP
+i,6bce19a4-e5f2-51e0-9fd7-7e1d38b25cc8,3d211632-72b8-4e29-8e99-d836832367a0,2023-01-13 16:54:19 +0000 UTC,COMPLETED,Egg Fried Rice（蛋饭）,,,5.2,32.20,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,a55dbf4a-c5ee-4282-a5a5-a816a8da96ae,2022-12-13 21:09:17 +0000 UTC,COMPLETED,98. Special Fried Rice,,,6.99,12.74,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,a55dbf4a-c5ee-4282-a5a5-a816a8da96ae,2022-12-13 21:09:17 +0000 UTC,COMPLETED,86. Japanese Style Katsu Curry Sauce 8oz,,,2.2,12.74,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,a55dbf4a-c5ee-4282-a5a5-a816a8da96ae,2022-12-13 21:09:17 +0000 UTC,COMPLETED,U1 Salmon Avocado Roll,,,5.99,12.74,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,a55dbf4a-c5ee-4282-a5a5-a816a8da96ae,2022-12-13 21:09:17 +0000 UTC,COMPLETED,U1 Salmon Avocado Roll,,,5.99,12.74,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,b4c5ece6-3abb-4aae-a3b1-89042dd426c5,2022-11-30 14:15:28 +0000 UTC,COMPLETED,113. Beef Black Bean Ho Fun,,,8.5,18.19,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,b4c5ece6-3abb-4aae-a3b1-89042dd426c5,2022-11-30 14:15:28 +0000 UTC,COMPLETED,25. Salt and Pepper Squid Large,,,7.5,18.19,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,b4c5ece6-3abb-4aae-a3b1-89042dd426c5,2022-11-30 14:15:28 +0000 UTC,COMPLETED,U1 Salmon Avocado Roll,,,5.99,18.19,GBP
+i,58df3af8-acbe-55b1-94df-f280304484db,b4c5ece6-3abb-4aae-a3b1-89042dd426c5,2022-11-30 14:15:28 +0000 UTC,COMPLETED,U1 Salmon Avocado Roll,,,5.99,18.19,GBP
+i,f2d11ce5-a001-5a79-b996-f59570d4afc5,497386d3-6abd-4d0c-8ebc-fc5f333af827,2022-11-17 13:47:13 +0000 UTC,COMPLETED,Salmon Selection,,,10.99,12.29,GBP
+i,f2d11ce5-a001-5a79-b996-f59570d4afc5,497386d3-6abd-4d0c-8ebc-fc5f333af827,2022-11-17 13:47:13 +0000 UTC,COMPLETED,Well Done Set,,,12.99,12.29,GBP
+i,0a8cd21b-2ae6-5840-a717-1086ecc8a639,c127e64c-e5ec-47be-a731-4b319b1a468a,2022-10-29 21:20:42 +0000 UTC,COMPLETED,Your Daily Deal,"ROMANA American Hot (With Hot Green Peppers), Classic Dough Balls 'PizzaExpress' (V)",,15.75,14.32,GBP
+12d,6207751a-5087-4995-b4ff-8fc2b9284c7e,888ec68d-8417-408b-8dd3-05b568e42383,2022-06-28 00:57:37 +0000 UTC,COMPLETED,Wrap of the day: The BBQ & Bacon Chicken One (Crispy),"Medium Fries, Ice, Medium Diet Coke®, Cold Drink, Bacon, Mayonnaise, Lettuce, Tomato, Smoky BBQ Sauce, Chicken Select®, Tortilla Wrap, The BBQ & Bacon Chicken One Medium Meal (Crispy)",,1.99,8.75,GBP
+12d,6207751a-5087-4995-b4ff-8fc2b9284c7e,888ec68d-8417-408b-8dd3-05b568e42383,2022-06-28 00:57:37 +0000 UTC,COMPLETED,Small Fanta® Orange,"Ice, Medium Fanta® Orange",,1.09,8.75,GBP
+12d,6207751a-5087-4995-b4ff-8fc2b9284c7e,888ec68d-8417-408b-8dd3-05b568e42383,2022-06-28 00:57:37 +0000 UTC,COMPLETED,Cheeseburger,"Cheese, Ketchup, Mustard, Onion, Pickles, Beef Patty, Bun",,0.99,8.75,GBP
