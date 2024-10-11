@@ -9,4 +9,4 @@ Collects data on food order dates.
 
 Generates a graph to visualise trends.
 
-Analyzes ordering patterns for insights.
+Analysis of ordering patterns for insights.
